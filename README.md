@@ -58,7 +58,7 @@ This project aims to identify **which factors drive sales** and how **discount s
 
 ## DATA
 
-Kaggle: vivek468/superstore-dataset-final
+[Kaggle]: (vivek468/superstore-dataset-final)
 
 
 
